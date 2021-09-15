@@ -1,0 +1,228 @@
+body{
+	text-align: center;
+		background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+.ach_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites1 {
+	text-align: left;
+}
+
+#avengersProject_id {
+	padding-bottom: 10px;
+}
+
+.ap_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
+
+.nsp_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites2 {
+	text-align: left;
+}
+
+#nsProject_id {
+	padding-bottom: 10px;
+}
+
+.nsp_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
+
+.fb_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites3 {
+	text-align: left;
+}
+
+#fbProject_id {
+	padding-bottom: 10px;
+}
+
+.fb_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
+
+.pwc_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites4 {
+	text-align: left;
+}
+
+#pwcProject_id {
+	padding-bottom: 10px;
+}
+
+.pwc_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
+
+.p_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites5 {
+	text-align: left;
+}
+
+#pProject_id {
+	padding-bottom: 10px;
+}
+
+.p_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
+
+.momr_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites6 {
+	text-align: left;
+}
+
+#momrProject_id {
+	padding-bottom: 10px;
+}
+
+.momr_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
+
+.vp_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites7 {
+	text-align: left;
+}
+
+#vpProject_id {
+	padding-bottom: 10px;
+}
+
+.vp_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
+
+.bw_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#websites8 {
+	text-align: left;
+}
+
+#bwProject_id {
+	padding-bottom: 10px;
+}
+
+.bw_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
